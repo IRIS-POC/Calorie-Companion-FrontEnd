@@ -1,4 +1,5 @@
 <h1>Calorie Companion</h1>
+<h2>Shut up Bryce....</h2>
 <p><b>Calorie Companion</b>, or Health Optimization is the full fledged app dedicated to helping you perform at your peak and continue to improve on your journey of becoming more healthy.</p>
 <br>
 <h2>Requirements</h2>
